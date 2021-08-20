@@ -1,6 +1,6 @@
 # name
 
-Flutter app to print value
+Flutter simple app that collects user input and displays the input on the screen. 
 
 ## Getting Started
 
